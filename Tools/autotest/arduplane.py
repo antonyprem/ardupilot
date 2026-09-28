@@ -10344,6 +10344,7 @@ class AutoTestPlane(vehicle_test_suite.TestSuite):
             self.MAVFTPBurstMissionDat,
             self.MAVFTPParamPck,
             self.MAVFTPVirtualWriteBounds,
+            self.MAVFTPParamUploadBounds,
             self.MAVFTPListDirectoryFullPacket,
             self.MAVFTPListDirectoryRoot,
             self.MAVFTPListROMFS,
